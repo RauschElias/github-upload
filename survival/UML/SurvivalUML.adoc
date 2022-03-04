@@ -1,0 +1,58 @@
+[plantuml]
+....
+@startuml
+'use standard access modifires
+'skinparam classAttributeIconSize
+
+title Survival Game
+
+class Player{
+    +health: int
+    +group: Group
+    +weight: double
+    +stamina: double
+    +tool: Item
+    
+
+    +ExternalInteraction(): void
+    +InternalInteaction(): void
+    +getHealh(): int
+    +getGroup(): int
+    +getWeight(): double
+    +getStamina(): double
+    +getTool(): Item
+    +setTool()
+}
+
+class Terrain{
+    +seed: int
+
+    +Generate(): void
+    +BakeCollider(): void
+    +Display(): void
+    +getSeed(): int
+    +setSeed()
+}
+
+class InteractableObject{
+    +id
+
+    +Interact() :void
+    +getId()
+}
+
+class Item{
+    +itemId: int
+    +name: string
+    +desciption: string
+
+    +getName(): string
+    +getItemId(): int
+    +getDesciption(): string
+
+}
+
+'class InternalUnrealEngineController{}
+
+@enduml
+....

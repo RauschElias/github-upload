@@ -1,0 +1,21 @@
+= Survival 3D
+
+
+**Ausgangslage:**	Wir wollten schon immer ein eigenes Spiel entwickeln und da Survival unser Lieblingsgenre ist, war der Schritt zum eigenen Survival-game nicht weit. Leider sind wir noch etwas unerfahren.
+
+**Projektziele:**
+
+1. Spieler der sich bewegen kann
+2. unendlich generierte Map
+3. Crafting-system
+4. Kampfsystem gegen Kreaturen (NPC)
+5. UI
+
+**Kosten:**	Es sind KEINE Kosten vorgesehen
+
+**Projektleiter:**  Traunbauer Elias
+
+**Projektmitglieder:**
+
+* Fuchsjäger Luca
+* Rausch Elias

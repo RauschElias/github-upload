@@ -1,0 +1,32 @@
+= Survival Game
+:customcss: mycss.css
+:source-highlighter: highlightjs
+
+== Team
+
+[%notitle]
+=== Personen
+1. Traunbauer Elias (Projektleiter)
+2. Fuchsjäger Luca
+3. Rausch Elias
+
+== Die Idee
+
+[%notitle]
+=== Grundidee
+GrundIdee: 3d Survival Game
+
+[%notitle]
+=== ausbauen
+* Wetter conditions
+* auto turrets
+* Freistädter
+* Planeten mit neuen Terrarien
+* bugs einbauen und immer ändern
+
+== Was verwenden wir?
+
+[%notitle]
+=== Verwendung
+* Unity
+* Github
